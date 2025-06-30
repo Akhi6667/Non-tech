@@ -1,17 +1,15 @@
-# 📱 Social Media Campaign — Instagram Carousel
+# 📝 Infographic Resume
 
-This folder contains a **motivational Instagram carousel series** designed in alignment with my brand identity.
+This folder contains my **visually enhanced resume** that reflects both my qualifications and design aesthetic.
 
 ## 📌 Includes:
-- `slide1.png` to `slide5.png`: A 5-slide post pack with a consistent visual theme
+- `infographic-resume.pdf`: Final resume file (print & digital)
+- `preview.png`: Quick preview image for display in GitHub
 
 ## 💡 Purpose:
-To show how my brand identity can be applied in *real-world contexts* like social media, client outreach, and audience building.
+To present my **skills, experience, and education** in a design-centric format while maintaining professional clarity.
 
 ## 🛠 Template Used:
-- [Motivational Instagram Carousel Template](https://www.canva.com/templates/EAD7ZBtv_Bs-blue-minimalist-motivational-instagram-post/)
+- [Infographic Resume Canva Template](https://www.canva.com/templates/EAE9kUKAOHM-infographic-resume/)
 
-## 🎯 Focus:
-- Typography hierarchy  
-- Clean layout design  
-- Brand voice and message consistency
+> Combines traditional resume content with *modern, minimalist visual storytelling*.
