@@ -1,17 +1,17 @@
-# 🖼 Profile Banners — LinkedIn & GitHub
+# 🎨 Personal Brand Kit
 
-This folder includes customized banners made for my **professional profiles** using the visual language of my brand.
+This folder contains my **visual brand identity system** — the core of my design style.
 
 ## 📌 Includes:
-- `linkedin-banner.png`: 1584 x 396 px
-- `github-banner.png`: 1280 x 640 px
+- `logo.png`: Signature-style handwritten logo
+- `color-palette.png`: Brand palette with primary, secondary, and neutral tones
+- `fonts-used.txt`: Font pairings for headers, subheadings, and body
+- `business-card-design.png`: Front-facing mockup of a custom business card
 
 ## 💡 Purpose:
-To create a **consistent brand presence** across all platforms, helping my profile stand out visually.
+To build a **cohesive and recognizable identity** across all design materials — from resume to social media.
 
-## 🛠 Templates Used:
-- [LinkedIn Banner Template](https://www.canva.com/templates/EAE96s4_mYc-dark-modern-linkedin-banner/)
-- GitHub banner made using a YouTube channel art template
+## 🛠 Template Used:
+- [Minimalist Brand Kit Template](https://www.canva.com/templates/EAE9uVPKT2o-black-white-minimalist-brand-guidelines/)
 
-## 🔍 Tip:
-Use consistent typefaces, brand colors, and your logo to unify your online presence.
+> This kit acts as the *foundation* for all the other design projects in this portfolio.
