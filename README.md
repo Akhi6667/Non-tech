@@ -1,15 +1,17 @@
-# 📝 Infographic Resume
+# 🖼 Profile Banners — LinkedIn & GitHub
 
-This folder contains my **visually enhanced resume** that reflects both my qualifications and design aesthetic.
+This folder includes customized banners made for my **professional profiles** using the visual language of my brand.
 
 ## 📌 Includes:
-- `infographic-resume.pdf`: Final resume file (print & digital)
-- `preview.png`: Quick preview image for display in GitHub
+- `linkedin-banner.png`: 1584 x 396 px
+- `github-banner.png`: 1280 x 640 px
 
 ## 💡 Purpose:
-To present my **skills, experience, and education** in a design-centric format while maintaining professional clarity.
+To create a **consistent brand presence** across all platforms, helping my profile stand out visually.
 
-## 🛠 Template Used:
-- [Infographic Resume Canva Template](https://www.canva.com/templates/EAE9kUKAOHM-infographic-resume/)
+## 🛠 Templates Used:
+- [LinkedIn Banner Template](https://www.canva.com/templates/EAE96s4_mYc-dark-modern-linkedin-banner/)
+- GitHub banner made using a YouTube channel art template
 
-> Combines traditional resume content with *modern, minimalist visual storytelling*.
+## 🔍 Tip:
+Use consistent typefaces, brand colors, and your logo to unify your online presence.
