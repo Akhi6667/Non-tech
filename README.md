@@ -1,17 +1,17 @@
-# 🎨 Personal Brand Kit
+# 📱 Social Media Campaign — Instagram Carousel
 
-This folder contains my **visual brand identity system** — the core of my design style.
+This folder contains a **motivational Instagram carousel series** designed in alignment with my brand identity.
 
 ## 📌 Includes:
-- `logo.png`: Signature-style handwritten logo
-- `color-palette.png`: Brand palette with primary, secondary, and neutral tones
-- `fonts-used.txt`: Font pairings for headers, subheadings, and body
-- `business-card-design.png`: Front-facing mockup of a custom business card
+- `slide1.png` to `slide5.png`: A 5-slide post pack with a consistent visual theme
 
 ## 💡 Purpose:
-To build a **cohesive and recognizable identity** across all design materials — from resume to social media.
+To show how my brand identity can be applied in *real-world contexts* like social media, client outreach, and audience building.
 
 ## 🛠 Template Used:
-- [Minimalist Brand Kit Template](https://www.canva.com/templates/EAE9uVPKT2o-black-white-minimalist-brand-guidelines/)
+- [Motivational Instagram Carousel Template](https://www.canva.com/templates/EAD7ZBtv_Bs-blue-minimalist-motivational-instagram-post/)
 
-> This kit acts as the *foundation* for all the other design projects in this portfolio.
+## 🎯 Focus:
+- Typography hierarchy  
+- Clean layout design  
+- Brand voice and message consistency
