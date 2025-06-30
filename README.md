@@ -1,123 +1,86 @@
+# 🎨 Visual Portfolio — Guru Akshaya
 
-# 🎨 Visual Portfolio by Akshaya G.
-
-Welcome to my **non-tech visual portfolio** — a creative showcase of personal branding and design-driven communication.
-
-This portfolio includes:
-
-1. 🎨 Personal Brand Kit  
-2. 📱 Social Media Campaign (Instagram Carousel)  
-3. 📝 Infographic Resume  
-4. 🖼 LinkedIn & GitHub Profile Banners
+This repository showcases my **non-technical creative portfolio**, including brand identity assets, social media designs, and professional profile visuals.
 
 ---
 
-## 1. 🎨 Personal Brand Kit
+## 🧩 1. Personal Brand Kit
 
-This section presents my **visual brand identity system** — the core design foundation I use across all other assets.
+This kit defines my **visual brand identity system** – the foundation of all my creative assets.
 
 ### 📌 Includes:
-- `logo.png`: Signature-style handwritten logo
-- `color-palette.png`: Brand palette with primary, secondary, and neutral tones
-- `fonts-used.txt`: Font pairings for headers, subheadings, and body
-- `business-card-design.png`: Custom business card mockup
+- `logo.png` : Signature-style handwritten logo  
+- `color-palette.png` : Brand palette with black and white tones  
+- `fonts-used.txt` : Font pairings used across visuals  
+- `business-card-design.png` : Front-facing mockup of my business card
+
+### ✨ Preview:
+![Logo](personal%20brand%20kit/logo.png)  
+![Color Palette](personal%20brand%20kit/color-palette.png)  
+![Business Card](personal%20brand%20kit/business-card-design.png)
 
 ### 💡 Purpose:
-To build a **cohesive and recognizable identity** across design materials — from resume to social media.
+To establish a **cohesive and minimalist brand identity** that reflects my style and professionalism.
 
-### 🛠 Template Used:
-- [Minimalist Brand Kit Template](https://www.canva.com/templates/EAE9uVPKT2o-black-white-minimalist-brand-guidelines/)
-
-> This kit acts as the *foundation* for all other design projects in this portfolio.
+### ⚙️ Template Used:
+[Minimalist Brand Kit Template (Canva)](https://www.canva.com/templates/EAE9uVPKT2o-black-white-minimalist-brand-guidelines)
 
 ---
 
-## 2. 📱 Social Media Campaign — Instagram Carousel
+## 📲 2. Social Media Campaign — Instagram Carousel
 
-This section features a **motivational Instagram carousel** series — each slide crafted using my personal brand style.
+This folder contains a **motivational Instagram carousel series** aligned with my visual identity.
 
 ### 📌 Includes:
-- `slide1.png` to `slide5.png`: A 5-slide motivational post pack
+- `slide1.png` to `slide5.png` : A 5-slide post pack with a consistent visual theme
+
+### 🖼️ Preview Slides:
+![Slide 1](personal%20brand%20kit/slide1.png)  
+![Slide 2](personal%20brand%20kit/slide2.png)  
+![Slide 3](personal%20brand%20kit/slide3.png)  
+![Slide 4](personal%20brand%20kit/slide4.png)  
+![Slide 5](personal%20brand%20kit/slide5.png)
 
 ### 💡 Purpose:
-To demonstrate how branding applies to *real-world digital platforms* like Instagram, client pages, or digital storytelling.
+To apply my branding in **real-world content creation** for social platforms, client outreach, or engagement.
 
-### 🛠 Template Used:
-- [Motivational Instagram Carousel Template](https://www.canva.com/templates/EAD7ZBtv_Bs-blue-minimalist-motivational-instagram-post/)
-
-### 🎯 Focus:
-- Typography hierarchy  
-- Clean layout  
-- Brand voice consistency
+### ⚙️ Template Used:
+[Motivational Instagram Carousel Template](https://www.canva.com/templates/EAD7BtV_Bs-blue-minimalist-motivational-instagram-post)
 
 ---
 
-## 3. 📝 Infographic Resume
+## 🖼️ 3. Profile Banners — LinkedIn & GitHub
 
-This section presents my **creative resume** — a blend of professionalism and design clarity.
+Custom banners for my **professional profiles** using my brand identity.
 
 ### 📌 Includes:
-- `infographic-resume.pdf`: Final design-ready resume
-- `preview.png`: Image preview for GitHub display
+- `linkedin-banner.png` : 1584 × 396 px  
+- `github-banner.png` : 1280 × 640 px
+
+### 🖼️ Preview:
+![LinkedIn Banner](personal%20brand%20kit/linkedin-banner.png)  
+![GitHub Banner](personal%20brand%20kit/github-banner.png)
 
 ### 💡 Purpose:
-To reflect my **skills, education, and background** in a visually structured layout — great for creative roles or internships.
+To create a **consistent brand presence** across all platforms.
 
-### 🛠 Template Used:
-- [Infographic Resume Template](https://www.canva.com/templates/EAE9kUKAOHM-infographic-resume/)
-
-> Blends resume data with *modern design aesthetics*.
-
----
-
-## 4. 🖼 Profile Banners — LinkedIn & GitHub
-
-This section includes professional **profile banners** created for consistency across platforms.
-
-### 📌 Includes:
-- `linkedin-banner.png`: 1584 x 396 px
-- `github-banner.png`: 1280 x 640 px
-
-### 💡 Purpose:
-To keep a **visual identity** consistent across online platforms and portfolios.
-
-### 🛠 Templates Used:
-- [LinkedIn Banner Template](https://www.canva.com/templates/EAE96s4_mYc-dark-modern-linkedin-banner/)
-- GitHub banner designed using a YouTube channel art layout
-
-### 🔍 Tip:
-Use consistent brand colors, logo, and typefaces to enhance your professional presence.
+### ⚙️ Template Used:
+- [LinkedIn Banner Template](https://www.canva.com)
+- GitHub banner inspired by YouTube channel art layout
 
 ---
 
-## 📁 Folder Structure
+## 🔍 Tools Used
 
-```
-visual-portfolio/
-├── personal-brand-kit/
-│   ├── logo.png
-│   ├── color-palette.png
-│   ├── fonts-used.txt
-│   ├── business-card-design.png
-│   └── README.md
-│
-├── social-media-campaign/
-│   ├── slide1.png to slide5.png
-│   └── README.md
-│
-├── infographic-resume/
-│   ├── infographic-resume.pdf
-│   ├── preview.png
-│   └── README.md
-│
-├── profile-banners/
-│   ├── linkedin-banner.png
-│   ├── github-banner.png
-│   └── README.md
-│
-└── README.md (this file)
-```
+- [Canva](https://www.canva.com/)
+- GitHub for version control and portfolio hosting
 
 ---
 
-🔗 Designed completely using **free Canva templates** and built to reflect a **non-technical creative portfolio** that stands out visually.
+## 🧠 About Me
+
+Hi, I'm **Guru Akshaya** — a creative and organized individual exploring non-technical IT fields with a focus on branding, content design, and professional growth.
+
+Connect with me on:  
+[LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/Akhi6667)
+
